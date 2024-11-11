@@ -1,4 +1,4 @@
-
+$(".hint").hide();
 $(".heart").click(function(){
     toggleCanva();
 })
